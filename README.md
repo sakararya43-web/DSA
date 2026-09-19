@@ -447,7 +447,8 @@ For every problem, I try to understand:
 🏆 LeetCode
 
 👨‍💻 My LeetCode Profile:
-👉 96EqCFDTj9
+LeetCode ID: 96EqCFDTj9
+Profile: https://leetcode.com/u/96EqCFDTj9/
 
 📊 Current Stats
 🟨 274 problems solved in Java
@@ -462,7 +463,6 @@ I primarily use Java for my DSA practice and problem solving.
 
 Sakar Arya
 
-🔗 LeetCode: 96EqCFDTj9
 💻 Language: Java
 
 Building problem-solving skills one algorithm at a time. 🚀
