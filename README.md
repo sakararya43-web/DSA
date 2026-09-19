@@ -453,10 +453,15 @@ LeetCode ID: 96EqCFDTj9
 Profile: https://leetcode.com/u/96EqCFDTj9/
 
 📊 Current Stats
+
 🟨 274 problems solved in Java
+
 🔵 8 problems solved in C
+
 🟣 1 problem solved in C++
+
 🏅 100 Days Badge
+
 🔥 50 Days Badge
 
 I primarily use Java for my DSA practice and problem solving.
