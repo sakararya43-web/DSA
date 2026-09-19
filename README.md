@@ -444,6 +444,27 @@ For every problem, I try to understand:
 
 > Building problem-solving skills one algorithm at a time. 🚀
 
----
+🏆 LeetCode
 
-⭐ **If you find this repository useful, consider starring it!**
+👨‍💻 My LeetCode Profile:
+👉 96EqCFDTj9
+
+📊 Current Stats
+🟨 274 problems solved in Java
+🔵 8 problems solved in C
+🟣 1 problem solved in C++
+🏅 100 Days Badge
+🔥 50 Days Badge
+
+I primarily use Java for my DSA practice and problem solving.
+
+👨‍💻 Author
+
+Sakar Arya
+
+🔗 LeetCode: 96EqCFDTj9
+💻 Language: Java
+
+Building problem-solving skills one algorithm at a time. 🚀
+
+⭐ If you find this repository useful, consider starring it!
