@@ -475,3 +475,15 @@ Sakar Arya
 Building problem-solving skills one algorithm at a time. 🚀
 
 ⭐ If you find this repository useful, consider starring it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sakararya43-web/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sakararya43-web/DSA/tree/master/3498-reverse-degree-of-a-string) |
+<!---LeetCode Topics End-->
