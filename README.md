@@ -489,17 +489,28 @@ Building problem-solving skills one algorithm at a time. 🚀
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sakararya43-web/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakararya43-web/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sakararya43-web/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakararya43-web/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sakararya43-web/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakararya43-web/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakararya43-web/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sakararya43-web/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sakararya43-web/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
